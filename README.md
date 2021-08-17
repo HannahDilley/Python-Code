@@ -1,2 +1,2 @@
 # Python-Code
-Examples of Pythin Code
+Examples of Python Code
